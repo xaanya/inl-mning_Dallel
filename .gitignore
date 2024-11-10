@@ -1,0 +1,16 @@
+# Ignorera venv-mappen (virtuell miljö)
+venv/
+
+# Ignorera pycache-mappen
+__pycache__/
+
+# Ignorera alla Python-skript (.py), men inkludera Programmering2
+*.py
+!Programmering2/
+
+# Ignorera JSON- och XML-filer, om du inte vill ha dem på GitHub
+*.json
+*.xml
+
+# Ignorera andra oönskade filer
+*.txt
