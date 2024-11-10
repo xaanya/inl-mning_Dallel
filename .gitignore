@@ -8,7 +8,7 @@ __pycache__/
 *.py
 !Programmering2/
 
-# Ignorera JSON- och XML-filer, om du inte vill ha dem på GitHub
+# Ignorera JSON- och XML-filer
 *.json
 *.xml
 
